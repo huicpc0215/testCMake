@@ -3,4 +3,6 @@ CMakeFiles
 CMakeCache.txt
 Makefile
 Demo
+build
 *.a
+data
