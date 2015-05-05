@@ -5,4 +5,8 @@ some useful demo to explain how to use cmake
 
 using cmake 2.8.12.2
 
-useful link: [hahack](http://www.hahack.com/codes/cmake/)
+useful link: 
+
+[hahack](http://www.hahack.com/codes/cmake/)
+
+[ibm developer](http://www.ibm.com/developerworks/cn/linux/l-cn-cmake/)
