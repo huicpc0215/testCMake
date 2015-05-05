@@ -10,3 +10,5 @@ useful link:
 [hahack](http://www.hahack.com/codes/cmake/)
 
 [ibm developer](http://www.ibm.com/developerworks/cn/linux/l-cn-cmake/)
+
+[pku sewm](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf)
