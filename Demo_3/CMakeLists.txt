@@ -9,7 +9,9 @@ project (Demo_2)
 # 添加子目录,并且能在子目录运行相应的cmake
 add_subdirectory(math)
 
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+
 add_executable(Demo main.cpp)
 
-target_link_libraries(Demo MyAdditions)
+target_link_libraries(Demo MyAddtions MyDecrise)
 

@@ -1,3 +1,4 @@
-aux_source_directory(. DIR_SRCS)
+set(LIBRARY_OUTPUT_PATH ${PROJECT_BINARY_DIR}/lib)
 
-add_library(MyAdditions ${DIR_SRCS})
+add_library(MyDecrise SHARED MyDecrise.cpp)
+add_library(MyAddtions SHARED MyAdditions.cpp)
