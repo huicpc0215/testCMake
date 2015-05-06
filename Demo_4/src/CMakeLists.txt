@@ -1,2 +1,3 @@
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/binary)
 ADD_EXECUTABLE( proceed proceed.cpp)
 TARGET_LINK_LIBRARIES( proceed libpcap.a)
